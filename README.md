@@ -1,4 +1,4 @@
-# Write A Data Science Blog Post 
+# Identify Customer Segments
 
 ## Table of Contents:
 
